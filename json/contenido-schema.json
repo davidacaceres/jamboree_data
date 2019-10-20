@@ -1,0 +1,81 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "type": "array",
+  "items": {
+    "$ref": "#/definitions/ContentElement"
+  },
+  "definitions": {
+    "ContentElement": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "root": {
+          "type": "boolean"
+        },
+        "view": {
+          "type": "string"
+        },
+        "order": {
+          "type": "integer"
+        },
+        "title": {
+          "type": "string"
+        },
+        "content": {
+          "type": "string"
+        },
+        "image": {
+          "type": "string",
+          "format": "uri",
+          "qt-uri-protocols": [
+            "https"
+          ]
+        },
+        "haschild": {
+          "type": "boolean"
+        },
+        "enlaces": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Enlace"
+          }
+        },
+        "idparent": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "content",
+        "id",
+        "order",
+        "title",
+        "view"
+      ],
+      "title": "ContentElement"
+    },
+    "Enlace": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "nombre": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "qt-uri-protocols": [
+            "https"
+          ]
+        }
+      },
+      "required": [
+        "nombre",
+        "url"
+      ],
+      "title": "Enlace"
+    }
+  }
+}

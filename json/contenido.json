@@ -1,0 +1,85 @@
+[
+  {
+    "id": "crn_0",
+    "root": true,
+    "view": "card",
+    "order": 1,
+    "title": "Cronología",
+    "content": "Cronología de la asociación de Guías y Scouts de Chile",
+    "image": "https://picsum.photos/150?random"
+  },
+  {
+    "id": "reg_0",
+    "root": true,
+    "view": "card",
+    "order": 2,
+    "title": "Reglamento Uniforme",
+    "content": "Reglamento sobre uniforme, distintivos e insignias oficiales",
+    "image": "https://picsum.photos/150?random"
+  },
+  {
+    "id": "jam_0",
+    "root": true,
+    "view": "card",
+    "order": 3,
+    "title": "10° Jamboree 2020",
+    "content": "La realización del 10° Jamboree Nacional 2020 se enmarca en periodo tan especial como es el que acoge la celebración de los 110 años de historia de nuestra Asociación de Guías y Scouts de Chile. Por ello es que el Jamboree pretende brindar espacios seguros y oportunidades educativas de encuentro en torno a los valores que el Movimiento asume como propios y en donde los Principios y la adhesión a la Promesa y a la Ley Guía y Scout se practican en toda su magnitud y vigencia. Será una reunión de alrededor de una semana de duración en que se celebrará la amistad, se promoverá el conocimiento de los diversos aspectos culturales de los participantes, se dialogará sobre la paz, se compartirá la vida al aire libre de manera sana y donde las guías y los scouts podrán explorar y descubrir aspectos de interés para su desarrollo",
+    "image": "https://picsum.photos/150?random",
+    "haschild": true,
+    "enlaces": [
+      {
+        "nombre": "Circular 39 2019 - Primera del Jamboree Nacional 2020",
+        "url": "https://www.guiasyscoutsdechile.cl/component/phocadownload/category/22-circulares-2019?download=680:circular-1-jamboree-nacional-2020"
+      }
+    ]
+  },
+  {
+    "id": "jam_1",
+    "idparent": "jam_0",
+    "view": "card",
+    "order": 1,
+    "title": "Propuesta Educativa",
+    "content": "la propuesta educativa del 10° Jamboree 2020 se basa en tres pilares:\n\n- Participación activa y transversal de las y los jóvenes\n\n- Integración de las realidades territoriales y sociales de las y los jóvenes\n- Integración de temáticas contingentes y relevantes para las y los jóvenes \n\nEs interés del Consejo Nacional, de la Dirección Ejecutiva y del Equipo Organizador de 10° Jamboree Nacional que Picarquín sea un lugar bio-psico-socialmente seguro para quienes asistan a nuestro gran campamento nacional, sean así niñas, niños, jóvenes o adultos. En esta línea, el Jamboree será un lugar libre de humo, drogas y alcohol y tendrá entre sus lineamientos un fuerte trabajo por la protección de derechos, por el respeto y tolerancia a la diversidad, por la inclusión y por la equidad de género",
+    "image": "https://picsum.photos/150?random"
+  },
+  {
+    "id": "jam_2",
+    "idparent": "jam_0",
+    "view": "card",
+    "order": 2,
+    "title": "¿Dónde será el Jamboree?",
+    "content": "El 10° Jamboree Nacional 2020 se desarrollará en la icónica Hacienda Picarquín, la misma que fue construida para acoger al 19° Jamboree Scout Mundial, a fines de 1998 y comienzos de 1999. \n\nSe ha escogido este sitio por la conmemoración de los 20 años de ese encuentro mundial y porque cumple con las características e infraestructura necesarias para la adecuada realización de un campamento que se espera acoja a 10 mil personas."
+  },
+  {
+    "id": "jam_4",
+    "idparent": "jam_0",
+    "view": "card",
+    "order": 4,
+    "title": "¿Cuándo será el Jamboree?",
+    "content": "Nuestro campamento nacional tendrá lugar desde el domingo 19 y hasta el domingo 26 de enero de 2020. \n\nSe podrá ingresar al campo desde el domingo 19 de enero a las 08:00 y se debe salir el domingo 26 de enero hasta las 18:00 horas a más tardar.\n\nSe dispone del domingo 19 para la ubicación en el subcampo correspondiente y la instalación de las patrullas y Unidades. El domingo 26 es el día asignado para el desarme y despedida."
+  },
+  {
+    "id": "jam_5",
+    "idparent": "jam_0",
+    "view": "card",
+    "order": 5,
+    "title": "¿Quiénes pueden participar?",
+    "content": "La unidad básica de participación durante el 10° Jamboree Nacional será la patrulla. El requisitobásico de participación será el que los Grupos de los asistentes estén con su Registro 2019 al día. Los requisitos específicos para los distintos tipos de participantes son: 1. Guías y Scouts nacidos entre el 20 de julio de 2004 y el 19 de enero de 2009. 2. Guiadoras y Dirigentes acompañantes de las guías y los scouts, mayores de edad, que se desempeñen como Responsables o Asistentes de Unidad, tanto en Compañía como en Tropa, que hayan participado de un Curso Inicial y que idealmente hayan participado en un Curso Medio en alguna de estas Ramas. 3. Pioneras y Pioneros mayores de 16 años, que hayan postulado exitosamente al Equipo de Servicio. Esta postulación deberá ser por Comunidad, con un mínimo de 4 integrantes mayores de 16 años, acompañados por una Guiadora o Dirigente responsable de ellos. 4. Caminantes que hayan postulado al Equipo de Servicio exitosamente. Su postulación solo podrá ser individual si son mayores de 18 años y han participado del Curso Inicial; de lo contrario deben venir acompañados por una guiadora o dirigente. 5. Guiadoras y Dirigentes de cualquier Rama que hayan postulado con éxito al Equipo de Servicio. Deben ser mayores de 18 años y haber participado al menos de un Curso Inicial.Debe asistir un (1) adulto por cada patrulla participante. El mínimo de integrantes por patrulla es de seis (6) y el máximo es de ocho (8). En cualquier caso, sólo se aceptará la participación de guiadoras o dirigentes acompañantes en una relación de 6 o más guías o scouts por cada 1 adulto. Las fechas en que deben estar disponibles los voluntarios en servicio consideran el sábado 18 de enero de 2020 desde las 08:00 horas hasta el domingo 26 de enero de 2020 a las 19:00 horas. En algunos casos se les solicitará su colaboración virtual o física para tareas previas, tales como capacitación, preparación de materiales y labores propias de su destinación."
+  },
+  {
+    "id": "jam_6",
+    "idparent": "jam_0",
+    "view": "card",
+    "order": 6,
+    "title": "Cupos para participantes",
+    "content": "Guías y Scouts 8.500, Adultos que acompañan 1.000, Equipo de servicio 1.500, Equipo central 200, Invitados Externos 300,Total 11.500     (Al inscribirse, los participantes aceptan los términos y condiciones del 10° Jamboree Nacional 2020)"
+  },
+  {
+    "id": "jam_7",
+    "idparent": "jam_0",
+    "view": "card",
+    "order": 7,
+    "title": "El Equipo Organizador del 10° Jamboree Nacional y su estructura organizacional",
+    "content": "El Jamboree contará con una organización y estructura apropiada que permita el logro de los objetivos del evento. La conformación del Equipo de Campo es la siguiente: • Responsable de Campo: Juan Pablo Reyes • Asistente de Campo: Daniela Pardo • Responsable de Programa: Juan Pablo Menichetti • Responsable de Vida de Subcampo: Carolina Avalos • Responsable de Servicios: Juan José Polanco • Representante del Comité Ejecutivo Nacional: Patricio Criado • Un observador del Consejo Nacional"
+  }
+]
