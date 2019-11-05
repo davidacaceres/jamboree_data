@@ -34,6 +34,15 @@
     ]
   },
   {
+    "id": "dca_0",
+    "root": true,
+    "view": "card",
+    "order": 1,
+    "title": "David Caceres ",
+    "content": "Prueba de la actualizacion de datos para la base de datos",
+    "image": "https://picsum.photos/151?random"
+  },
+  {
     "id": "jam_1",
     "idparent": "jam_0",
     "view": "card",
