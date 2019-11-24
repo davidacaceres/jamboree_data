@@ -1,4 +1,15 @@
 {
-  "fcactualizacion": "2019-11-04T23:46:27.512Z",
-  "info": "Actualizacion de informacion para jamboree(7)"
+  "fecha":"2019-11-24T22:11:00Z",    
+  "descripcion": "Incorporacion datos",
+  "urls":[
+      {
+        "tipo":"conteindo",
+        "url":"http://contenido",
+        "version": 0.1
+      },{
+        "tipo":"carrusel",
+        "url":"http://carrusel",
+        "version": 0.1
+      }
+      ]
 }
